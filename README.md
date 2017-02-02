@@ -1,4 +1,5 @@
-CPS 630 Project 
+CPS 630 Project. 
+
 Group Member : 
    Jun Yan, 
    Allan hong, 
