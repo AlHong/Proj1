@@ -1,7 +1,4 @@
-package com.main;
-
-
-
+package com.main.domain;
 
 public class SendData {
 	private String url;
